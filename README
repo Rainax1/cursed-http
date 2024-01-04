@@ -1,5 +1,5 @@
 > [!WARNING]
-> This code is purely made for fun and don't take it seriously.  You might encounter dragons, teleportation mishaps, or even time warps. Use at your own risk (or amusement).
+> This code is purely made for fun and don't take it seriously.  You might encounter some mysterious 404 Errors
 
 >  The repo that everyone deserves
 
@@ -15,7 +15,9 @@ Welcome to Cursed Http Serve - Http server written in pyton using only python st
 
 - Secret Files: Visit `/secret` to access a top-secret file.
 
-- User-Agent Retrieval: Ever wondered what your User-Agent is? Find out by hitting up `/user-agent`. Spoiler: It's probably something like `"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36."`
+- User-Agent Retrieval: Ever wondered what your User-Agent is?
+
+    Find out by hitting up `/user-agent`. Spoiler: It's probably something like `"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36."`
 
 > And so much more: Explore the server to discover mysterious 404 pages
 
