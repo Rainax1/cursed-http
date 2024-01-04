@@ -3,7 +3,7 @@ import socket
 import threading
 import argparse
 
-class TCP:
+class CursedHTTP:
     def __init__(self, host: str, port: int):
         self.host = host
         self.port = port
@@ -105,7 +105,7 @@ def run_server():
     parser.add_argument("-p", "--port", type=int, default=4222, help="Port")
     args = parser.parse_args()
 
-    tcp = TCP(args.host, args.port)
+    tcp = CursedHTTP(args.host, args.port)
     tcp.main(args.file)
 
 if __name__ == "__main__":
