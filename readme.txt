@@ -1,13 +1,6 @@
 > [!WARNING]
 > This code is purely made for fun and don't take it seriously.  You might encounter some mysterious 404 Errors
 
->  The repo that everyone deserves
-
-# Cursed Http Sever
-
-Welcome to Cursed Http Serve - Http server written in pyton using only python standary libraries and is made purely for fun. 
-
-# Features
 
 - Error Handling: Encounter a 404? That's just the server telling you it's in another universe.
 

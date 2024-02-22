@@ -3,6 +3,11 @@ import socket
 import threading
 import argparse
 
+
+"""
+TODO: Add file serving
+"""
+
 class CursedHTTP:
     def __init__(self, host: str, port: int):
         self.host = host
