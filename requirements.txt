@@ -1,5 +1,3 @@
-os
-socket
 threading
 argparse
 

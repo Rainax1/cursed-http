@@ -5,7 +5,8 @@ import argparse
 
 
 """
-TODO: Add file serving
+TODOO: Add file serving
+TODO: Serve whole folder or a document file like pdf, html, xhtml, etc
 """
 
 class CursedHTTP:
