@@ -6,7 +6,8 @@ import argparse
 
 """
 TODOO: Add file serving
-TODO: Serve whole folder or a document file like pdf, html, xhtml, etc
+TODO:  Static folder or a document file like pdf, html, xhtml, etc
+TODO:  Live reloading of file
 """
 
 class CursedHTTP:
