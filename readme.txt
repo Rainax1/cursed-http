@@ -24,9 +24,9 @@ git clone http://github.com/Rainax1/cursed-http.git
 ## Run the server with the following command:
 
 ```bash
-python live-http.py       # by default ip is 'localhosst' and port is 4222
+python live-serve.py       # by default ip is 'localhosst' and port is 4222
 
-python live-http.py -f your_file.html -H 127.0.0.1 -p 4222    # specify host with -H and port with -p if wanted to change
+python live-serve.py -f your_file.html -H 127.0.0.1 -p 4222    # specify host with -H and port with -p if wanted to change
 
 # Visit the server in your web browser by navigating to http://127.0.0.1:4222.
 ```
